@@ -12,6 +12,8 @@
 
 # Qt-es
 
+/debug
+/release
 /.qmake.cache
 /.qmake.stash
 *.pro.user
